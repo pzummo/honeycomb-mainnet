@@ -1,0 +1,32 @@
+{
+  "name": "Honeycomb Mainnet",
+  "chain": "Honeycomb",
+  "chainId": 46639,
+  "networkId": 46639,
+  "nativeCurrency": {
+    "name": "Honey",
+    "symbol": "HNY",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.pending"
+  ],
+  "explorers": [
+    {
+      "name": "Honeycomb Explorer",
+      "url": "https://pending",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://honeycomb.network",
+  "shortName": "honeycomb",
+  "slug": "honeycomb-mainnet",
+  "testnet": false,
+  "features": [
+    "pos",
+    "custom-consensus",
+    "native-token-honey"
+  ],
+  "status": "development",
+  "description": "Honeycomb is a decentralized quantum-resistant blockchain network. The native currency, Honey (HNY), rewards participants for proof of service and proof of stake activities."
+}
